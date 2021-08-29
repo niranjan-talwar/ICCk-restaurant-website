@@ -1,0 +1,38 @@
+#head{
+    background: #E8703C;
+}
+#logo{
+    font-family: 'Lobster', cursive;
+}
+#logo1{
+    font-family: 'Varela Round', sans-serif;
+}
+.textonimage{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+    color: white;
+    font-size: 40px;
+}
+#toprow{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #E8703C;
+}
+#bottomrow{
+    padding-bottom: 20px;
+    background: #E8703C;
+}
+#map{
+    height: 400px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#phone{
+    background: #D1FFE5;
+}
+#end{
+    padding-bottom: 20px;
+    background: #FFD432;
+}
